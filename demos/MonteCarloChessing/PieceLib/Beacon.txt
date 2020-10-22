@@ -1,0 +1,6 @@
+Beacon,Champion,Basic,Epic
+
+4,Range 4 Augmented\o Teleport target ally minion or champion.,26:67
+5,Range 5 Augmented\o Teleport target ally minion or champion.,26:67
+6,Range 6 Augmented\o Teleport target ally minion or champion.,26:67
+7,Range 7 Augmented\o Teleport target ally minion or champion.,26:67

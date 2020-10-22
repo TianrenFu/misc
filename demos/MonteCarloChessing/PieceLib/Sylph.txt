@@ -1,0 +1,6 @@
+Sylph,Minion,Basic,Rare
+
+0,Promotes to Sylph+ after using Magic against enemy.,2:67767887,28:66868868
+1,Promotes to Sylph++ after using Magic against enemy.,2:6776788757759779,28:66868868
+3,Promotes to Sylph+++ after using Magic against enemy.,2:6776788757759779,28:6686886855959959
+5,Promotes to AirElemental after using Magic against enemy.,2:67767887577597794774a77a,28:6686886855959959

@@ -1,0 +1,6 @@
+Vampire,Minion,Basic,Common
+
+15,On Kill\o Opponent loses 2 morale and your King gains 2 value. If you do not have a King\a this unit gains value instead.,1:6676868788786867,3:5544757495a497a799aa797a594a5747,38:5665859669589889
+17,On Kill\o Opponent loses 3 morale and your King gains 3 value. If you do not have a King\a this unit gains value instead.,1:6676868788786867,3:5544757495a497a799aa797a594a57473373b3b7bb7b3b37,38:5665859669589889
+19,On Kill\o Opponent loses 4 morale and your King gains 4 value. If you do not have a King\a this unit gains value instead.,1:6676868788786867,3:5544757495a497a799aa797a594a57473373b3b7bb7b3b372272c2c7cc7c2c27,38:5665859669589889
+21,On Kill\o Opponent loses 5 morale and your King gains 5 value. If you do not have a King\a this unit gains value instead.,1:6676868788786867,3:5544757495a497a799aa797a594a57473373b3b7bb7b3b372272c2c7cc7c2c271171d1d7dd7d1d17,38:5665859669589889355393b5b99b5b39

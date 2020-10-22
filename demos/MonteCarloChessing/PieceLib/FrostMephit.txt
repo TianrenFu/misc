@@ -1,0 +1,6 @@
+FrostMephit,Minion,Basic,Rare
+
+2,An enemy unit that targets FrostMephit with any attack or ability is frozen for 1 turn.\nImmune to Freeze,1:66866888
+3,An enemy unit that targets FrostMephit with any attack or ability is frozen for 1 turn.\nImmune to Freeze,1:66866888,2:59559599
+4,An enemy unit that targets FrostMephit with any attack or ability is frozen for 1 turn.\nImmune to Freeze,1:66866888,6:55959959
+5,An enemy unit that targets FrostMephit with any attack or ability is frozen for 1 turn.\nImmune to Freeze,1:66866888,31:55959959

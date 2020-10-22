@@ -1,0 +1,6 @@
+Slime,Minion,Basic,Common
+
+2,On Kill\o Transform into GiantSlime.,1:6787
+3,On Kill\o Transform into GiantSlime+.,1:6787,2:7678
+5,On Kill\o Transform into GiantSlime++.,1:67877678
+6,On Kill\o Transform into GiantSlime+++.,1:67877678,2:57759779

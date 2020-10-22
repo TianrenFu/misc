@@ -1,0 +1,6 @@
+Salamander,Minion,Basic,Epic
+
+0,Promotes to FireElemental.,2:6668,7:67
+2,Promotes to FireElemental+.,1:6668,7:67
+3,Promotes to FireElemental++.,1:6668,2:5559,7:67
+4,Promotes to FireElemental+++.,1:6668,2:555987,7:67,21:4549

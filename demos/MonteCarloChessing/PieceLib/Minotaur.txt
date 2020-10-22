@@ -1,0 +1,6 @@
+Minotaur,Champion,Basic,Epic
+
+12,On Champion Kill\o Swap places with enemy King.,1:6757477675748797a778797a
+14,On Champion Kill\o Swap places with enemy King.,1:6757477675748797a778797a3773b77b
+16,On Champion Kill\o Swap places with enemy King.,1:6757477675748797a778797a3773b77b,2:66868868
+18,On Champion Kill\o Swap places with enemy King.,1:6757477675748797a778797a3773b77b,2:6686886859559599

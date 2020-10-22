@@ -1,0 +1,6 @@
+Fireball,Minion,Arcane,Common
+
+1,Vanishes after attacking.\nImmune to Poison/Petrify.\nDestroyed by Freeze.,42:675747
+3,Vanishes after attacking.\nImmune to Poison/Petrify.\nDestroyed by Freeze.,42:67574766556859
+4,Vanishes after attacking.\nImmune to Poison/Petrify.\nDestroyed by Freeze.,42:6757476655685975767879
+5,Vanishes after attacking.\nImmune to Poison/Petrify.\nDestroyed by Freeze.,21:65565869,42:6757476655685975767879

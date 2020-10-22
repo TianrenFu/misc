@@ -1,0 +1,6 @@
+Snake,Minion,Basic,Rare
+
+1,On Melee Death\o Poison the attacker\a killing them in 3 turns.,2:66868868,24:67768778
+2,On Melee Death\o Poison the attacker\a killing them in 3 turns.,2:6686886855955999,24:67768778
+3,On Melee Death\o Poison the attacker\a killing them in 3 turns.,2:668688685595599944a4aa4a,24:67768778
+4,On Melee Death\o Poison the attacker\a killing them in 3 turns.,2:668688685595599944a4aa4a,24:6776877857759779

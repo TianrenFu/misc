@@ -1,0 +1,6 @@
+Basilisk,Minion,Basic,Rare
+
+1,Promotes to Medusa.,1:6668,14:67
+2,Promotes to Medusa+.,1:6668,14:67,21:5658
+3,Promotes to Medusa++.,1:6668,2:87,14:67,21:5658
+4,Promotes to Medusa+++.,1:6668,2:875559,14:67,21:5658

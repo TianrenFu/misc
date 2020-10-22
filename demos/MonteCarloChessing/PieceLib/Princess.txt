@@ -1,0 +1,6 @@
+Princess,Minion,Basic,Rare
+
+0,Promotes to Queen.\nBegins the game Enchanted for 1 turn\a becoming immune to melee attacks.\nOn Death\o Lose 5 morale.,2:6667687888878676
+0,Promotes to Queen+.\nBegins the game Enchanted for 2 turn\a becoming immune to melee attacks.\nOn Death\o Lose 10 morale.,2:66676878888786765557597975959799
+0,Promotes to Queen++.\nBegins the game Enchanted for 3 turn\a becoming immune to melee attacks.\nOn Death\o Lose 15 morale.,2:6667687888878676555759797595979944474a74a4a7aa7a
+0,Promotes to Queen+++.\nBegins the game Enchanted for 4 turn\a becoming immune to melee attacks.\nOn Death\o Lose 20 morale.,2:6667687888878676555759797595979944474a74a4a7aa7a,6:5665859698896958

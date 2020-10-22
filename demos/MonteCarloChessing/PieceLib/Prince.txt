@@ -1,0 +1,6 @@
+Prince,Champion,Basic,Rare
+
+10,On Kill\o Transform into King and gain 20 morale. If you have a King\a this ability cannot activate.,1:6667687888878676
+12,On Kill\o Transform into King and gain 20 morale. If you have a King\a this ability cannot activate.,1:6667687888878676,2:5557597999979575
+13,On Kill\o Transform into King and gain 20 morale. If you have a King\a this ability cannot activate.,1:66676878888786765755759597997959
+14,On Kill\o Transform into King and gain 20 morale. If you have a King\a this ability cannot activate.,1:5755759597997959,5:6667687888878676

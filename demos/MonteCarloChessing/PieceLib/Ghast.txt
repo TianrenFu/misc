@@ -1,0 +1,6 @@
+Ghast,Champion,Basic,Epic
+
+8,Does not block movement.\nAugmented\o Teleport to the empty location of any fallen ally.,5:6667788887867668
+9,Does not block movement.\nAugmented\o Teleport to the empty location of any fallen ally.,5:6667788887867668,6:5557597999979575
+10,Does not block movement.\nAugmented\o Teleport to the empty location of any fallen ally.,5:6667788887867668,31:5575959779995957
+11,Does not block movement.\nAugmented\o Teleport to the empty location of any fallen ally.,5:6667788887867668,31:55759597799959575869899896856556

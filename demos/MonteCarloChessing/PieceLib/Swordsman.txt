@@ -1,0 +1,6 @@
+Swordsman,Minion,Clan,Common
+
+1,Promotes to Warrior.,1:67,3:7678
+2,Promotes to Warrior+.,1:677678
+3,Promotes to Warrior++.,1:677678,11:6668
+4,Promotes to Warrior+++.,1:677678,2:577579,11:6668

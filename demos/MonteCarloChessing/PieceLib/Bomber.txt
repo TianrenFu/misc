@@ -1,0 +1,6 @@
+Bomber,Minion,Arcane,Common
+
+1,On Melee Death\o Destroy the attacker.\nOn Kill\o Destroy Self.,1:67,6:e6e8
+2,On Melee Death\o Destroy the attacker.\nOn Kill\o Destroy Self.,1:67,2:57,6:e6e8e5e9
+3,On Melee Death\o Destroy the attacker.\nOn Kill\o Destroy Self.,1:67,2:576668,6:e6e8e5e9e4ea
+4,On Melee Death\o Destroy the attacker.\nOn Kill\o Destroy Self.,1:67,2:5766685559,6:e6e8e5e9e4eae3eb

@@ -1,0 +1,6 @@
+RoyalGuard,Minion,Basic,Legendary
+
+3,Augmented\o Teleport to any location adjacent to ally King.,1:67767887
+4,Augmented\o Teleport to any location adjacent to ally King.,1:67767887,2:66688886
+5,Augmented\o Teleport to any location adjacent to ally King.,1:6776788766868868
+6,Augmented\o Teleport to any location adjacent to ally King.,1:6776788766868868,2:57759779

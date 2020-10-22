@@ -1,0 +1,6 @@
+AirElemental,Champion,Basic,Epic
+
+8,Promotes to AirElemental+ after using Magic against enemy.\nOn Kill\o lose 4 value.\nIf this unit reaches 0 value it is destroyed.,1:6757477675748797a778797a,28:6655869588996859
+10,Promotes to AirElemental++ after using Magic against enemy.\nOn Kill\o lose 5 value.\nIf this unit reaches 0 value it is destroyed.,1:6757477675748797a778797a3773b77b,28:665586958899685944a4aa4a
+12,Promotes to AirElemental+++ after using Magic against enemy.\nOn Kill\o lose 6 value.\nIf this unit reaches 0 value it is destroyed.,1:6757477675748797a778797a3773b77b27c7727c,28:665586958899685944a4aa4a3b33b3bb
+14,Gain 8 Value after using Magic against enemy.\nOn Kill\o lose 4 value.\nIf this unit reaches 0 value it is destroyed.,1:6757477675748797a778797a3773b77b27c7727c07177170d7e77d7e,28:665586958899685944a4aa4a3b33b3bb2c22c2cc

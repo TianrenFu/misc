@@ -1,0 +1,6 @@
+Portal,Minion,Arcane,Rare
+
+0,(Magic-Immune)\n(Ranged-Immune)\n(Status-Immune),26:87,27:5856
+1,(Magic-Immune)\n(Ranged-Immune)\n(Status-Immune),26:87,27:5856545a
+2,(Magic-Immune)\n(Ranged-Immune)\n(Status-Immune),26:87,27:5856545a5559
+3,(Magic-Immune)\n(Ranged-Immune)\n(Status-Immune),26:87,27:5856545a555964656668696a

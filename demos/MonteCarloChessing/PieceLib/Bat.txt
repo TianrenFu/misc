@@ -1,0 +1,6 @@
+Bat,Minion,Basic,Common
+
+0,Promotes to Vampire.,6:65856989
+1,Promotes to Vampire+.,2:66868868,6:65856989
+2,Promotes to Vampire++.,2:66868868,6:6585698954945a9a
+5,Promotes to Vampire+++.,2:6686886807172737,6:6585698954945a9a

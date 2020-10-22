@@ -1,0 +1,6 @@
+MoonFox,Champion,Basic,Legendary
+
+8,On Death\o Lose 3 Morale.,1:6655448695a48899aa68594a,23:87
+10,On Death\o Lose 3 Morale.,1:6655448695a48899aa68594a33b3bb3b,23:87
+12,On Death\o Lose 3 Morale.,1:6655448695a48899aa68594a33b3bb3b22c2cc2c,23:87
+14,On Death\o Lose 3 Morale.,1:6655448695a48899aa68594a33b3bb3b22c2cc2c,3:67,23:87

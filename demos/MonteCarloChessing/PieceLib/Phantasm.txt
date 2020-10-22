@@ -1,0 +1,6 @@
+Phantasm,Minion,Arcane,Rare
+
+3,Does not block movement.,3:67767887,6:7a4759557495a799
+4,Does not block movement.,1:67768778,6:7a4759557495a799
+5,Does not block movement.,5:67768778,6:7a4759557495a799
+6,Does not block movement.,5:67768778,31:47557495a7997a59

@@ -1,0 +1,6 @@
+Mercenary,Minion,Basic,Epic
+
+1,On Kill\o Opponent loses 1 morale and this unit changes teams.,1:67767887,2:66868868
+2,On Kill\o Opponent loses 2 morale and this unit changes teams.,1:6776788757759779,2:66868868
+3,On Kill\o Opponent loses 3 morale and this unit changes teams.,1:6776788757759779,2:6686886855959959
+4,On Kill\o Opponent loses 4 morale and this unit changes teams.,1:677678875775977947747aa7,2:6686886855959959

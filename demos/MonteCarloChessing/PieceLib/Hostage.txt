@@ -1,0 +1,6 @@
+Hostage,Minion,Basic,Rare
+
+0,On Death\o Your opponent loses 4 morale.\nIf caught between 2 adjacent enemy champions\a the hostage is rescued and opponent gains 2 morale.\n(Magic-Immune),2:66866888
+1,On Death\o Your opponent loses 6 morale.\nIf caught between 2 adjacent enemy champions\a the hostage is rescued and opponent gains 3 morale.\n(Magic-Immune),2:6686688867768778
+2,On Death\o Your opponent loses 8 morale.\nIf caught between 2 adjacent enemy champions\a the hostage is rescued and opponent gains 4 morale.\n(Magic-Immune),2:668668886776877859559599
+3,On Death\o Your opponent loses 10 morale.\nIf caught between 2 adjacent enemy champions\a the hostage is rescued and opponent gains 5 morale.\n(Magic-Immune),2:66866888677687785955959957759779

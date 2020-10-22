@@ -1,0 +1,6 @@
+Pawn,Minion,Basic,Common
+
+0,Promotes to Bishop.,2:67,3:6668,11:57
+1,Promotes to Bishop+.,2:67,3:6668,11:5747
+2,Promotes to Bishop++.,2:67,3:6668,11:574737
+3,Promotes to Bishop+++.,2:67,3:6668,11:5747372717

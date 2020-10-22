@@ -1,0 +1,6 @@
+Skeleton,Minion,Basic,Common
+
+2,Immune to Poison,1:67767887
+3,(Status-Immune),1:67767887
+4,(Status-Immune),1:67767887,2:66688886
+6,(Status-Immune),1:6776788757757997,2:66688886

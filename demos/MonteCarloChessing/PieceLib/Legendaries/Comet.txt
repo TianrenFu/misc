@@ -1,0 +1,6 @@
+Comet,Champion,Basic,Legendary
+
+7,Augmented\o Freeze-Strike any enemy champion. \n(Status-Immune).,36:67767887
+8,Augmented\o Freeze-Strike any enemy champion. \n(Status-Immune).,36:6778876688687686
+9,Augmented\o Freeze-Strike any enemy champion. \n(Status-Immune).,36:677887668868768657759779
+10,Augmented\o Freeze-Strike any enemy champion. \n(Status-Immune).,36:67788766886876865775977955959959

@@ -1,0 +1,6 @@
+Axeman,Minion,Basic,Common
+
+2,Promotes to Berserker.,2:67,3:66766878
+3,Promotes to Berserker+.,1:6668,2:67,3:7678
+4,Promotes to Berserker++.,1:6668,2:67,3:7678,11:555759
+5,Promotes to Berserker+++.,1:66687678,2:67,11:555759

@@ -1,0 +1,6 @@
+FireElemental,Champion,Basic,Legendary
+
+15,On Kill\o Gains 3 Value.\nBeyond move 30\a this unit loses 1 value per turn. If this unit reaches 0 value it is destroyed.,1:67767887,2:66868868,7:5557597999979575
+18,On Kill\o Gains 4 Value.\nBeyond move 25\a this unit loses 1 value per turn. If this unit reaches 0 value it is destroyed.,1:6776788766868868,7:5557597999979575
+20,On Kill\o Gains 5 Value.\nBeyond move 20\a this unit loses 1 value per turn. If this unit reaches 0 value it is destroyed.,1:6776788766868868,6:5665859698896958,7:5557597999979575
+21,On Kill\o Gains 6 Value.\nBeyond move 15\a this unit loses 1 value per turn. If this unit reaches 0 value it is destroyed.,1:6776788766868868,7:5557597999979575,31:5665859698896958

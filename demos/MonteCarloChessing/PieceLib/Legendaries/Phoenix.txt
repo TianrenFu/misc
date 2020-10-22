@@ -1,0 +1,6 @@
+Phoenix,Champion,Basic,Legendary
+
+14,On Death\o Transform into PhoenixEgg {value\o0\a hatch\o13\a penalty\o11}.\nOn Melee Death\o Destroy the attacker.,1:6676868788786867,6:5557597999979575
+16,On Death\o Transform into PhoenixEgg+ {value\o4\a hatch\o15\a penalty\o9}.\nOn Melee Death\o Destroy the attacker.,1:66868868,5:67768778,6:5557597999979575
+18,On Death\o Transform into PhoenixEgg++ {value\o8\a hatch\o17\a penalty\o7}.\nOn Melee Death\o Destroy the attacker.,5:6776877866868868,6:5557597999979575
+21,On Death\o Transform into PhoenixEgg+++ {value\o14\a hatch\o20\a penalty\o4}.\nOn Melee Death\o Destroy the attacker.,5:6776877866868868,31:5557597999979575

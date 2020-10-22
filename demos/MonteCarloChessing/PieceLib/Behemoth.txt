@@ -1,0 +1,6 @@
+Behemoth,Champion,Basic,Epic
+
+9,Cannot be targeted by enemy minions.,1:6768788887867666
+12,Cannot be targeted by enemy minions.,1:6768788887867666,2:5755759597997959
+15,Cannot be targeted by enemy minions.,1:67687888878676665575959799795957
+18,Cannot be targeted by enemy minions.,1:676878888786766655759597997959574474a4a7aa7a4a47

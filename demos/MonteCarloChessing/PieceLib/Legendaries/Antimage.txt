@@ -1,0 +1,6 @@
+Antimage,Champion,Clan,Legendary
+
+9,(Magic-Immune)\n(Ranged-Immune)\n(Status-Immune),1:6757767587977879,2:4766687a88a78674
+10,(Magic-Immune)\n(Ranged-Immune)\n(Status-Immune),1:675776758797787966868868,2:477aa774
+11,(Magic-Immune)\n(Ranged-Immune)\n(Status-Immune),1:675776758797787966868868,2:477aa77455959959
+12,(Magic-Immune)\n(Ranged-Immune)\n(Status-Immune),1:675776758797787966868868,6:47557495a7997a59

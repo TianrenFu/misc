@@ -1,0 +1,6 @@
+Spearman,Minion,Basic,Common
+
+1,Promotes to Legionary.,1:67,3:57
+2,Promotes to Legionary+.,1:67,3:57,11:6668
+3,Promotes to Legionary++.,1:67,2:6668,3:57
+4,Promotes to Legionary+++.,1:67,2:6668,3:5747

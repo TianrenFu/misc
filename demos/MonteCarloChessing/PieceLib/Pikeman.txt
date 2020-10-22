@@ -1,0 +1,6 @@
+Pikeman,Minion,Basic,Rare
+
+2,On Unblockable Death\o Kill the attacker.,1:67,2:87,3:6668
+3,On Unblockable Death\o Kill the attacker.,1:67,2:8797,3:666857
+4,On Unblockable Death\o Kill the attacker.,1:67,2:8797a7,3:6668575559
+5,On Unblockable Death\o Kill the attacker.,1:67,2:8797a7b7,3:666857555947

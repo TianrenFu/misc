@@ -1,0 +1,6 @@
+Ghost,Minion,Basic,Common
+
+3,Does not block movement.,5:67768778
+4,Does not block movement.,2:66868868,5:67768778
+5,Does not block movement.,1:66868868,5:67768778
+6,Does not block movement.,5:6776877866688886

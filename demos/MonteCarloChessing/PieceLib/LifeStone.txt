@@ -1,0 +1,6 @@
+LifeStone,Minion,Basic,Epic
+
+4,(Status-Immune),32:67
+5,(Status-Immune),32:676668
+6,(Status-Immune),32:6766687678
+7,(Status-Immune),32:6766687678868788

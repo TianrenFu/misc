@@ -1,0 +1,6 @@
+Aquarius,Champion,Basic,Legendary
+
+8,On Death\o Adjacent enemy units are frozen for 1 turn and pushed away 1 space.,1:6757767587977879,37:5665859698896958
+10,On Death\o Adjacent enemy units are frozen for 1 turn and pushed away 1 space.,1:67577675879778794774a77a,37:5665859698896958466484a6a88a6a48
+12,On Death\o Adjacent enemy units are frozen for 1 turn and pushed away 1 space.,1:67577675879778794774a77a66868868,37:5665859698896958466484a6a88a6a48
+14,On Death\o Adjacent enemy units are frozen for 1 turn and pushed away 1 space.,1:67577675879778794774a77a6686886837557395b7997b59,37:5665859698896958466484a6a88a6a48

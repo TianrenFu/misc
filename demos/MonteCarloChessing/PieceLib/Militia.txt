@@ -1,0 +1,6 @@
+Militia,Minion,Basic,Common
+
+1,Promotes to Knight. \nOn Death\o Lose 2 morale.,1:666768
+1,Promotes to Knight+. \nOn Death\o Lose 3 morale.,1:666768,11:57
+1,Promotes to Knight++. \nOn Death\o Lose 4 morale.,1:666768,11:575559
+1,Promotes to Knight+++. \nOn Death\o Lose 5 morale.,1:666768,11:575559,21:5456585a

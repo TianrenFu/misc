@@ -1,0 +1,6 @@
+Duelist,Minion,Basic,Common
+
+1,Promotes to Fencer.,2:8688,35:67
+2,Promotes to Fencer+.,2:8688,11:6668,35:67
+3,Promotes to Fencer++.,2:86886668,35:67
+4,Promotes to Fencer+++.,2:86886668,11:5559,35:67

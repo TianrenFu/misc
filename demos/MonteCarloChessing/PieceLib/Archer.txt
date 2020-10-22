@@ -1,0 +1,6 @@
+Archer,Minion,Basic,Common
+
+0,Promotes to Ranger.,2:6668,42:57
+1,Promotes to Ranger+.,2:666887,42:57
+2,Promotes to Ranger++.,2:666887,11:5559,42:57
+3,Promotes to Ranger+++.,2:6668875559,42:57
